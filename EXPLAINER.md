@@ -34,7 +34,7 @@ for (const app of listOfInstalledApps) {
 This API is being developed with the assumption that a system exists to create
 associations from installed applications to websites.
 
-We can define relationships between a wensite and other applications by
+We can define relationships between a website and other applications by
 using the "related_applications" member of the web application manifest.
 
 Example:
